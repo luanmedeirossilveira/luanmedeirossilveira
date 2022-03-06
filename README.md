@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+> Projetos Reais estão em (Mokit Digital Organização) [https://github.com/mokit-digital]
+
 <p align="left"> 
     Sou desenvolvedor web pleno nível I. Programo linhas de "códigos" por mais de 3 anos, quando iniciei na Universidade. Minha trajetória começou Freela com Websites para venda (Delivery, Ecommerce) e Portfólio (Influencer Digital).  Em Janeiro de 2021, iniciei meu caminho de desenvolvedor na empresa OTI, onde desenvolvo ERP's para concessões. Além de mundo da TI, tenho meus gostos por Ciência, Biologia, Geografia e também História. Gosto de estar sempre com minha família e amigos para conversar. Como hobby, assisto esportes como Futebol, Vôlei.
 </p>
