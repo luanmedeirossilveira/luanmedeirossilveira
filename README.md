@@ -10,24 +10,20 @@
   * Flutter (Mobile)
 
 <p>
-  🫂 Metodologias Ágeis usadas:
-  * SCRUM / KANBAN
+🫂 Metodologias Ágeis usadas:
+* SCRUM / KANBAN
 
-<p align="left">
-  💼 Ferramentas: 
-  * GIT / Git Hub / Bitbucket
-  * Docker / Container
-  * SQL (Postgres, MySQL) / NoSQL (MongoDB)
-  * TypeORM
-  * Click Up / Jira
-</p>
+💼 Ferramentas: 
+* GIT / Git Hub / Bitbucket
+* Docker / Container
+* SQL (Postgres, MySQL) / NoSQL (MongoDB)
+* TypeORM
+* Click Up / Jira
 
-<p align="left">
-  💌 Entre em contato comigo pelo: ⤵️
-    * Email: luanmedeirossilveira@gmail.com
-    * Linkedin: https://www.linkedin.com/in/luan-medeiros-silveira-868020141
-    * Twitter: @deverloperlms
-</p>
+💌 Entre em contato comigo pelo: ⤵️
+* Email: luanmedeirossilveira@gmail.com
+* Linkedin: https://www.linkedin.com/in/luan-medeiros-silveira-868020141
+* Twitter: @deverloperlms
 
 <p align="left">
   <a href="#" alt="Gmail">
