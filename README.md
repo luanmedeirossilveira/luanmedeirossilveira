@@ -6,29 +6,29 @@
 
 <p align="left">
   🦄 Linguagens & Frameworks que utilizo com frequência:
-  - Vue.JS / React.JS (Front-end)
-  - JAVA (Spring Boot) / NodeJS (Back-end)
-  - Flutter (Mobile)
+  * Vue.JS / React.JS (Front-end)
+  * JAVA (Spring Boot) / NodeJS (Back-end)
+  * Flutter (Mobile)
 </p>
 
 <p>
   🫂 Metodologias Ágeis usadas:
-    - SCRUM / KANBAN
+  * SCRUM / KANBAN
 
 <p align="left">
   💼 Ferramentas: 
-  - GIT / Git Hub / Bitbucket
-  - Docker / Container
-  - SQL (Postgres, MySQL) / NoSQL (MongoDB)
-  - TypeORM
-  - Click Up / Jira
+  * GIT / Git Hub / Bitbucket
+  * Docker / Container
+  * SQL (Postgres, MySQL) / NoSQL (MongoDB)
+  * TypeORM
+  * Click Up / Jira
 </p>
 
 <p align="left">
   💌 Entre em contato comigo pelo: ⤵️
-    - Email: luanmedeirossilveira@gmail.com
-    - Linkedin: https://www.linkedin.com/in/luan-medeiros-silveira-868020141
-    - Twitter: @deverloperlms
+    * Email: luanmedeirossilveira@gmail.com
+    * Linkedin: https://www.linkedin.com/in/luan-medeiros-silveira-868020141
+    * Twitter: @deverloperlms
 </p>
 
 <p align="left">
