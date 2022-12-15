@@ -25,7 +25,6 @@
 💌 Entre em contato comigo pelo: ⤵️
 * Email: luanmedeirossilveira@gmail.com
 * Linkedin: www.linkedin.com/in/luanmedeirossilveira
-* Twitter: @deverloperlms
 
 <p align="left">
   <a href="luanmedeirossilveira@gmail.com" alt="Gmail">
