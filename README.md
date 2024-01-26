@@ -5,20 +5,21 @@
 </p>
 
   🦄 Linguagens & Frameworks que utilizo com frequência:
-  * Vue.JS / React.JS (Front-end)
-  * JAVA (Spring Boot) / NodeJS / Python (FastAPI)
-  * Flutter (Mobile)
+  * Vue.JS (+4y) / React.JS (Front-end) (+4y)
+  * JAVA (Spring Boot - +3y) / NodeJS (+4y) / Python (FastAPI - 1.5y)
+  * React Native (Mobile - 2y)
 
 <p>
 🫂 Metodologias Ágeis usadas:
 * SCRUM / KANBAN
 
-💼 Ferramentas: 
-* GIT / Git Hub / Bitbucket
-* Docker / Container
-* SQL (Postgres, MySQL) / NoSQL (MongoDB)
-* TypeORM
-* Click Up / Jira
+💼 Ferramentas:
+* AWS Cloud (1y) / Azure Cloud (1.5y)
+* GIT / Git Hub / Bitbucket (4y)
+* Docker / Container (2y)
+* SQL (Postgres, MySQL) / NoSQL (MongoDB) (4y)
+* TypeORM (4y)
+* Click Up / Jira (4y)
 
 💌 Entre em contato comigo pelo: ⤵️
 * Email: luanmedeirossilveira@gmail.com
